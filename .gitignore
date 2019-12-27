@@ -1,0 +1,6 @@
+.vscode/
+bin/*.[eE][xX][eE]
+bin/*.[cC][nN][fF]
+cd/
+obj/
+*.[tT][oO][cC]
